@@ -6,7 +6,7 @@ Installation
 
 Install Tailwind CSS
 
->Install tailwindcss via npm, and create your
+>Install tailwindcss via npm
 
 `npm install -D tailwindcss`
 
